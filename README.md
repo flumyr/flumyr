@@ -42,5 +42,5 @@ I am a **Full-Stack Software Engineer** based in Nairobi, Kenya, currently pursu
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/titus-muia-b67b64239/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/titus-muia-b67b64239/)
 - 📧 [Email](mailto:titusmuia.it@gmail.com)
